@@ -26,7 +26,7 @@ Fetch Price
 
 Click Continue
     Click Element    ${CONTINUE_LOC}    
-    
+    Comment    uhytgvb
 Click Login
     Click Element    ${LOGIN_LOC}
     
